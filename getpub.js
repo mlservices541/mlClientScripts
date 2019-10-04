@@ -1,5 +1,4 @@
 var bitcoin = require('bitcoinjs-lib');
-var bincoinMessage = require('bitcoinjs-message');
 
 // want this wifkey in base58
 var wifkey=process.argv[2];
